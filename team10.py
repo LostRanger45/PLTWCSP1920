@@ -25,7 +25,7 @@ def move(my_history, their_history, my_score, their_score):
             if random.random()<0.05:
                 return 'b'
             else:
-                'c'
+                return 'c'
     
     
     
